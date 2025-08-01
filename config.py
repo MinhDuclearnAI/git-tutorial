@@ -1,0 +1,1 @@
+print('hello world and specificially you', 'welcome to our life ahihi')

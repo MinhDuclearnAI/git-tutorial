@@ -4,4 +4,4 @@ def git(n):
         return 0
     return n % 10 + git(n // 10)
 
-print(git(n))
+print(git(n), 'ahihi')
