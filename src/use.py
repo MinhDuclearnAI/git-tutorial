@@ -5,3 +5,5 @@ def git(n):
     return n % 10 + git(n // 10)
 
 print(git(n), 'ahihi', 'tong chu so')
+
+a = list(map(int, input().split()))
