@@ -12,4 +12,9 @@ while n > 0:
 for x, y in a.items():
     print(x, ': ', y)
 
+#version6
+a = list(map(int, input().split()))
+a = set(a)
+print(a)
+
     
