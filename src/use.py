@@ -4,4 +4,4 @@ def git(n):
         return 0
     return n % 10 + git(n // 10)
 
-print(git(n), 'ahihi','1 version after version add git ignore')
+print(git(n), 'ahihi', 'tong chu so')
