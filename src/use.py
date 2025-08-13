@@ -4,7 +4,7 @@ def git(n):
         return 0
     return n % 10 + git(n // 10)
 
-print(git(n), 'ahihi', 'tong chu so')
+print(git(n), 'tong chu so', 'new copy version 8')
 
 a = []
 n = int(input('version khac mang 2 chieu, check push'))
