@@ -1,7 +1,3 @@
-n = int(input())
-print(n,'$', 'this is the number that you just typed', 'ahihi', 'is this your dream salary')
-#version 3 update
-#nhap thong tin theo yeu cau va in ra thong tin
 print('nhap vao 3 muc thong tin:')
 a = {}
 while n > 0:

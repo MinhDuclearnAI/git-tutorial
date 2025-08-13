@@ -7,7 +7,8 @@ def git(n):
 print(git(n), 'ahihi', 'tong chu so')
 
 a = []
-n = int(input('version 7 mang 2 chieu'))
+n = int(input('version khac mang 2 chieu, check push'))
 for i in range(n):
     b = list(map(int, input().split()))
     a.append(b)
+print('okok')
