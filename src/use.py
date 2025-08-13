@@ -6,4 +6,8 @@ def git(n):
 
 print(git(n), 'ahihi', 'tong chu so')
 
-print('version 6 cho viec check hoat dong cua github')
+a = []
+n = int(input('version 7 mang 2 chieu'))
+for i in range(n):
+    b = list(map(int, input().split()))
+    a.append(b)

@@ -12,8 +12,8 @@ while n > 0:
 for x, y in a.items():
     print(x, ': ', y)
 
-#version6
-a = list(map(int, input().split()))
+#version7
+a = list(map(int, input('version 7 ahihi').split()))
 a = set(a)
 print(a)
 
